@@ -83,13 +83,13 @@ With the help of visual insights, HR teams can:
 |------|-------------|
 | `dashbaord/HR_Analytics_Dashboard.pbix` | Power BI Dashboard file |
 | `dataset/HR_Employee_Data.csv` | HR dataset used in the dashboard |
-| `images/hr_dashboard.png` | Preview of the final dashboard |
+| `images/Capture.PNG` | Preview of the final dashboard |
 
 ---
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](screenshots/hr_dashboard.png)
+![Dashboard Preview](images/Capture.PNG)
 
 ---
 
